@@ -1,0 +1,10 @@
+requests
+pandas
+textblob
+numpy
+plotly
+ipywidgets
+tqdm
+pytz
+matplotlib
+viola
